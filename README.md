@@ -1,2 +1,5 @@
 # RG-Assignments
-Assignment for Ruangguru MSIB Batch 4
+| **ID Camp** | **Nama** | 
+| ------------- | --------- |
+| FE4487715 | Mohammad Firman Fardiansyah |
+
